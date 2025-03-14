@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin
 - 👀 I’m interested in coding debuging
-- 🌱 I’m currently learning b.tech CSE 
+- 🌱 I’m currently pursuing b.tech CSE 
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me yksachin88@gmail.com
 
