@@ -1,8 +1,8 @@
  ### Hi, I’m Sachin 👋
 
-- 👀 I’m interested in coding, debugging, and building cool projects  
-- 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering  
-- 💞️ I’m looking to collaborate on open-source projects, web development, and innovative software solutions  
+- 👀 I’m interested in coding, debugging, and building cool projects and problem solving data structure and algorithm. 
+- 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering.
+- 💞️ I’m looking to collaborate on open-source projects, web development, and innovative software solutions.  
 - 📫 How to reach me: yksachin88@gmail.com
 
 <!---
