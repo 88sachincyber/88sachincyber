@@ -65,9 +65,9 @@
 
 # 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" height="55"></a>
-  <a href="mailto:sachinyadav71457@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55"></a>
-  <a href="https://github.com/CyberSachin07"><img src="https://skillicons.dev/icons?i=github" height="55"></a>
+  <a href="https://www.linkedin.com/in/sachin-yadav-cse/"><img src="https://skillicons.dev/icons?i=linkedin" height="55"></a>
+  <a href="mailto:yksachin88@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55"></a>
+  <a href="https://github.com/88sachincyber"><img src="https://skillicons.dev/icons?i=github" height="55"></a>
 </p>
 
 <p align="center">
