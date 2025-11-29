@@ -48,12 +48,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # ⚡ Activity Graph
 <p align="center">
